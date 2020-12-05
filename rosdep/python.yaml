@@ -1,4 +1,4 @@
-adafruit-ads1x15-pip:
+adafruit-ads1x15-pip: 
   debian:
     pip:
       packages: [Adafruit-ADS1x15]
